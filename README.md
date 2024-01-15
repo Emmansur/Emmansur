@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Emmansur
+- 👀 I’m interested in learning 
+- 🌱 I’m currently learning Scripting in Python 
+- 💞️ I’m looking to collaborate on any project that helps me gain experience
